@@ -1,0 +1,31 @@
+_repo: Jacquine-Vanesse_29857
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cherbuliez, Victor
+    alias: Cherbuliez, Charles Victor
+    birthdate: 1829
+    deathdate: 1899
+    gutenberg_agent_id: '927'
+    url: http://www.gutenberg.org/2009/agents/927
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Victor_Cherbuliez
+    - http://en.wikipedia.org/wiki/Victor_Cherbuliez
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2009-08-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29857'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French fiction -- 19th century'
+- !lcc 'PQ'
+title: Jacquine Vanesse
+url: http://www.gutenberg.org/ebooks/29857
