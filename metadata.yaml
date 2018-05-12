@@ -15,6 +15,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Victor_Cherbuliez
     - http://en.wikipedia.org/wiki/Victor_Cherbuliez
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29857#Jacquine-Vanesse
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2009-08-30'
 gutenberg_type: Text
